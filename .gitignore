@@ -1,5 +1,5 @@
 # Hugo build output
-public/
+# public/  # temporarily tracked until Hugo is installed
 resources/_gen/
 .hugo_build.lock
 
